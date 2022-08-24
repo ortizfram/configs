@@ -28,3 +28,4 @@ My neovim configuration
     gd = goes to deffinition (constant)
     gf = goes inside file
     CONTRL + O = go back
+    CONTRL + i = go forward
