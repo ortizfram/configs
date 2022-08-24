@@ -58,3 +58,10 @@ My neovim configuration
 ## ㊗️ copy paste
      dd = delete line
      p = paste
+  ### 🟠 selected copy & paste
+      v = visual mode (select)
+      y = copy
+      p = paste
+## ㊗️ add new line
+    o = below line
+    SHIFT + o = upper line
