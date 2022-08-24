@@ -15,18 +15,26 @@ so ~/.vim/plugins.vim
 so ~/.vim/plugin-config.vim
 so ~/.vim/maps.vim
 
-colorscheme gruvbox
-let g:gruvbox_contrast_dark = "hard"
+
 highlight Normal ctermbg=NONE
 set laststatus=2
 set noshowmode
 
-au BufNewFile,BufRead *.html set filetype=htmldjango
-lua require'colorizer'.setup()
 
-"" Searching
+"""call pluggins
+call plu#begin('~/.vim/plugged)
+"""THEMES
+Plug 'morhetz/gruvbox'
+call plug#end()
+
+"""gruvbox config
+colorscheme gruvbox
+let g:gruvbox_contrast_dark = "hard"
+let g:deoplete#enable_at_startup = 1
+let g:jsx_ext_required = 0
+ 
+Searching
 set hlsearch                    " highlight matches
 set incsearch                   " incremental searching
 set ignorecase                  " searches are case insensitive...
 set smartcase                   " ... unless they contain at least one capital letter
-
