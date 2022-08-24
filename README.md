@@ -19,6 +19,8 @@ My neovim configuration
     G = ending
     16G = go line 16
  ### 🟠 search
+ ❗ from cursor forward
+ 
     ESC + ESC
     /whatYouLookingFor
    
