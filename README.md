@@ -3,7 +3,8 @@ My neovim configuration
 
 if home doesn't exist :
 
-    :e $HOME/_vimrc  " on Windows
+    :new
+    :w C:/Users/ortiz/_vimrc
   Insert the settings you want, and save the file.
 ## ㊗️ alias:
     vim
