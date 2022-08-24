@@ -24,3 +24,7 @@ My neovim configuration
     ESC + ESC
     :w
     :wq
+## ㊗️move between FILEs:
+    gd = goes to deffinition (constant)
+    gf = goes inside file
+    
