@@ -24,8 +24,6 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
   
     :PlugInstall
   configurate theme in .vimrc   
-## ㊗️ install Vundle for python
-[VundleVim Python](https://github.com/VundleVim/Vundle.vim)
 ## ㊗️ color schemes
 [color schemes](https://github.com/rafi/awesome-vim-colorschemes)
 
