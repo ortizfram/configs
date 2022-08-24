@@ -4,7 +4,9 @@ My neovim configuration
 if home doesn't exist :
 
     :new
-    :w C:/Users/ortiz/_vimrc
+    :w C:/Users/ortiz/.vimrc
+    
+    :e $MYVIMRC open & edit
   Insert the settings you want, and save the file.
 ## ㊗️ alias:
     vim
