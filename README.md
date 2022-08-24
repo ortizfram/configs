@@ -7,6 +7,7 @@ if home doesn't exist :
     :w C:/Users/ortiz/.vimrc
     
     :e $MYVIMRC open & edit
+download [vimplug](https://github.com/junegunn/vim-plug)
   Insert the settings you want, and save the file.
 ## ㊗️ alias:
     vim
