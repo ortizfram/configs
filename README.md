@@ -1,5 +1,10 @@
 # configs
 My neovim configuration
+
+if home doesn't exist :
+
+    :e $HOME/_vimrc  " on Windows
+  Insert the settings you want, and save the file.
 ## ㊗️ alias:
     vim
 ## ㊗️ forced leave VIM
