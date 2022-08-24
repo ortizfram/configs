@@ -13,6 +13,8 @@ My neovim configuration
    K ☝️
    
    L 👉
+   
+   W/E 👉➡️ || B ⬅️👈 (go to beggining of next piece of code)
 ## ㊗️jumping lines
     CNTRL + g = see line
     gg = beggining
@@ -26,9 +28,6 @@ My neovim configuration
     ENTER
     
     ENTER + n
-    
-   
-   W/E 👉➡️ || B ⬅️👈 (go to beggining of next piece of code)
 ## ㊗️ INSERT TEXT
     i/A(after |)
     ESC + ESC (normal mode)
