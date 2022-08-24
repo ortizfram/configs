@@ -24,6 +24,10 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
   
     :PlugInstall
   configurate theme in .vimrc   
+  
+## ㊗️ intall pathogen for python
+[pathogen](https://github.com/tpope/vim-pathogen)
+
 ## ㊗️ color schemes
 [color schemes](https://github.com/rafi/awesome-vim-colorschemes)
 
