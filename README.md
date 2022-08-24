@@ -13,6 +13,11 @@ My neovim configuration
    K ☝️
    
    L 👉
+## ㊗️jumping lines
+    CNTRL + g = see line
+    gg = beggining
+    G = ending
+    16G = go line 16
    
    W/E 👉➡️ || B ⬅️👈 (go to beggining of next piece of code)
 ## ㊗️ INSERT TEXT
@@ -20,6 +25,12 @@ My neovim configuration
     ESC + ESC (normal mode)
 ## ㊗️ DELETE
     x
+### 🟠 delete, undo, redo
+    dw = delete word (normal mode)
+    d$ | dd = delete line
+    u = undo
+    CONTRL + R = redo
+    
 ## ㊗️ SAVE
     ESC + ESC
     :w
@@ -29,8 +40,6 @@ My neovim configuration
     gf = goes inside file
     CONTRL + O = go back
     CONTRL + i = go forward
-## ㊗️ delete, undo, redo
-    dw = delete word (normal mode)
-    u = undo
-    CONTRL + R = redo
-    d$ = delete line
+## ㊗️ copy paste
+     dd = delete line
+     p = paste
