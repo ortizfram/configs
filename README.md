@@ -18,3 +18,5 @@ My neovim configuration
 ## ㊗️ INSERT TEXT
     i/A(after |)
     ESC + ESC (normal mode)
+## ㊗️ DELETE
+    x
