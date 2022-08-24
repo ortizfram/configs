@@ -27,4 +27,4 @@ My neovim configuration
 ## ㊗️move between FILEs:
     gd = goes to deffinition (constant)
     gf = goes inside file
-    
+    CONTRL + O = go back
