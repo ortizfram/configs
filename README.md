@@ -7,8 +7,19 @@ if home doesn't exist :
     :w C:/Users/ortiz/.vimrc
     
     :e $MYVIMRC open & edit
-download [vimplug](https://github.com/junegunn/vim-plug)
-  Insert the settings you want, and save the file.
+   Insert the settings you want, and save the file.
+## ㊗️ vimPlug plugins
+download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
+❗ pluggins will download in `C:\Users\ortiz\vimfiles\autoload`
+
+    #enter .vimrc
+    """call plugins
+    call plu#begin('~/.vim/plugged')
+    """call theme or pluggin
+    Plug 'plugname/themename'
+    """end call
+    call plug#end()
+  
 ## ㊗️ alias:
     vim
 ## ㊗️ forced leave VIM
