@@ -20,3 +20,6 @@ My neovim configuration
     ESC + ESC (normal mode)
 ## ㊗️ DELETE
     x
+## ㊗️ SAVE
+    ESC + ESC
+    :w
