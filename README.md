@@ -23,3 +23,4 @@ My neovim configuration
 ## ㊗️ SAVE
     ESC + ESC
     :w
+    :wq
