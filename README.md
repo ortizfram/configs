@@ -26,6 +26,8 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
   configurate theme in .vimrc     
 ## ㊗️ color schemes
 [color schemes](https://github.com/rafi/awesome-vim-colorschemes)
+
+[change colors](https://www.youtube.com/watch?v=MUQC5FYFp-A)
 ## ㊗️ alias:
     vim
 ## ㊗️ forced leave VIM
