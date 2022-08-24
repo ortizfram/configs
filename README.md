@@ -27,7 +27,7 @@ My neovim configuration
     /whatYouLookingFor
     ENTER
     
-    ENTER + n
+    ENTER + n/N
 ## ㊗️ INSERT TEXT
     i/A(after |)
     ESC + ESC (normal mode)
