@@ -20,6 +20,9 @@ My neovim configuration
     gg = beggining
     G = ending
     16G = go line 16
+    
+    $ = line ending
+    0 = b. of line
  ### 🟠 searching in lines
  ❗ from cursor forward
  
@@ -48,6 +51,8 @@ My neovim configuration
     gf = goes inside file
     CONTRL + O = go back
     CONTRL + i = go forward
+## ㊗️ go {},[],() endings
+    %
 ## ㊗️ copy paste
      dd = delete line
      p = paste
