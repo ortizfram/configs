@@ -34,6 +34,8 @@ My neovim configuration
 ## ㊗️ INSERT TEXT
     i/A(after |)
     ESC + ESC (normal mode)
+## ㊗️ replace all TEXT similar
+    :%s/var/newvar/gc
 ## ㊗️ DELETE
     x
 ### 🟠 delete, undo, redo
