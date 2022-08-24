@@ -29,3 +29,8 @@ My neovim configuration
     gf = goes inside file
     CONTRL + O = go back
     CONTRL + i = go forward
+## ㊗️ delete, undo, redo
+    dw = delete word (normal mode)
+    u = undo
+    CONTRL + R = redo
+    d$ = delete line
