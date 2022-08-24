@@ -18,6 +18,9 @@ My neovim configuration
     gg = beggining
     G = ending
     16G = go line 16
+ ### 🟠 search
+    ESC + ESC
+    /whatYouLookingFor
    
    W/E 👉➡️ || B ⬅️👈 (go to beggining of next piece of code)
 ## ㊗️ INSERT TEXT
