@@ -19,6 +19,11 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
     Plug 'plugname/themename'
     """end call
     call plug#end()
+    
+  INSTALL
+  
+    :PlugInstall
+  configurate theme in .vimrc     
   
 ## ㊗️ alias:
     vim
