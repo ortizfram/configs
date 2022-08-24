@@ -65,3 +65,6 @@ My neovim configuration
 ## ㊗️ add new line
     o = below line
     SHIFT + o = upper line
+    
+## ㊗️🛠️ add NEW CONFIG
+
