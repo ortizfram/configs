@@ -29,6 +29,8 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
 [pathogen](https://github.com/tpope/vim-pathogen)
 [guide](https://stackoverflow.com/questions/9172802/setting-up-vim-for-python)
 
+[python for vim](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
+
 ## ㊗️ color schemes
 [color schemes](https://github.com/rafi/awesome-vim-colorschemes)
 
