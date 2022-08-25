@@ -28,6 +28,8 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
 ## ㊗️ intall chocolatey
 [chocolatey](https://docs.chocolatey.org/en-us/choco/setup)
 
+[neovim choco](https://www.youtube.com/watch?v=CPsAKPbYhMs)
+
 ## ㊗️ forced leave VIM
     ESC + ESC
     :q! + ENTER
