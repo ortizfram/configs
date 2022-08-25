@@ -20,7 +20,25 @@ highlight Normal ctermbg=NONE
 set laststatus=2
 set noshowmode
 
-
+"""python config
+set expandtab
+set textwidth=79
+set tabstop=8
+set softtabstop=4
+set shiftwidth=4
+set autoindent
+"""TaskList
+map T :TaskList<CR>
+map P :TlistToggle<CR>
+"""Ctags
+let $Tlist_Ctags_Cmd='/usr/local/bin/ctags'
+"""MiniBuferXpl
+let g:miniBufExplMapWindowNavVim = 1
+let g:miniBufExplMapWindowNavArrows = 1
+let g:miniBufExplMapCTabSwitchBufs = 1
+let g:miniBufExplModSelTarget = 1
+"""execute pathogen
+execute pathogen#infect()
 """call pluggins
 call plu#begin('~/.vim/plugged)
 call plu#begin('~/.vim/plugged)
