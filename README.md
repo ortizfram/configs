@@ -25,11 +25,8 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
     :PluginInstall
   configurate theme in .vimrc   
   
-## ㊗️ intall pathogen for python
-[pathogen](https://github.com/tpope/vim-pathogen)
-[guide](https://stackoverflow.com/questions/9172802/setting-up-vim-for-python)
-
-[python for vim](https://www.youtube.com/watch?v=HKJUILUvkGk)
+## ㊗️ intall Vundle
+[Vundle](https://www.youtube.com/watch?v=S7Yis6-5K9w)
 
 ## ㊗️ forced leave VIM
     ESC + ESC
