@@ -22,21 +22,15 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
     
   INSTALL
   
-    :PlugInstall
+    :PluginInstall
   configurate theme in .vimrc   
   
 ## ㊗️ intall pathogen for python
 [pathogen](https://github.com/tpope/vim-pathogen)
 [guide](https://stackoverflow.com/questions/9172802/setting-up-vim-for-python)
 
-[python for vim](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
+[python for vim](https://www.youtube.com/watch?v=HKJUILUvkGk)
 
-## ㊗️ color schemes
-[color schemes](https://github.com/rafi/awesome-vim-colorschemes)
-
-[change colors](https://www.youtube.com/watch?v=MUQC5FYFp-A)
-## ㊗️ alias:
-    vim
 ## ㊗️ forced leave VIM
     ESC + ESC
     :q! + ENTER
