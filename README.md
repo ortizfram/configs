@@ -9,7 +9,7 @@ if home doesn't exist :
     :e $MYVIMRC open & edit
    Insert the settings you want, and save the file.
  
-## ㊗️ intall chocolatey
+## ㊗️ intall chocolatey NVIM
 [chocolatey](https://docs.chocolatey.org/en-us/choco/setup)
 
 [neovim choco](https://www.youtube.com/watch?v=CPsAKPbYhMs)
