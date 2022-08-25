@@ -23,6 +23,7 @@ set noshowmode
 
 """call pluggins
 call plu#begin('~/.vim/plugged)
+call plu#begin('~/.vim/plugged)
 """THEMES
 Plug 'morhetz/gruvbox'
 call plug#end()
