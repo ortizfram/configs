@@ -8,6 +8,11 @@ if home doesn't exist :
     
     :e $MYVIMRC open & edit
    Insert the settings you want, and save the file.
+ 
+## ㊗️ intall chocolatey
+[chocolatey](https://docs.chocolatey.org/en-us/choco/setup)
+
+[neovim choco](https://www.youtube.com/watch?v=CPsAKPbYhMs)
 ## ㊗️ vimPlug plugins
 download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
 ❗ pluggins will download in `C:\Users\ortiz\vimfiles\autoload`
@@ -24,11 +29,7 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
   
     :PluginInstall
   configurate theme in .vimrc   
-  
-## ㊗️ intall chocolatey
-[chocolatey](https://docs.chocolatey.org/en-us/choco/setup)
-
-[neovim choco](https://www.youtube.com/watch?v=CPsAKPbYhMs)
+ 
 
 ## ㊗️ forced leave VIM
     ESC + ESC
