@@ -25,10 +25,8 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
     :PluginInstall
   configurate theme in .vimrc   
   
-## ㊗️ intall Vundle
-[how to install plugins](https://opensource.com/article/20/2/how-install-vim-plugins)
-
-[Vundle](https://www.youtube.com/watch?v=S7Yis6-5K9w)
+## ㊗️ intall chocolatey
+[chocolatey](https://docs.chocolatey.org/en-us/choco/setup)
 
 ## ㊗️ forced leave VIM
     ESC + ESC
