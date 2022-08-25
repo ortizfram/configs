@@ -26,6 +26,8 @@ download [vimplug](https://github.com/junegunn/vim-plug) #windows powershell
   configurate theme in .vimrc   
   
 ## ㊗️ intall Vundle
+[how to install plugins](https://opensource.com/article/20/2/how-install-vim-plugins)
+
 [Vundle](https://www.youtube.com/watch?v=S7Yis6-5K9w)
 
 ## ㊗️ forced leave VIM
